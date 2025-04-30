@@ -1,0 +1,72 @@
+{"0": {
+    "doc": "Acceleration",
+    "title": "Acceleration",
+    "content": "example of subpage. ",
+    "url": "/hardware/acceleration",
+    
+    "relUrl": "/hardware/acceleration"
+  },"1": {
+    "doc": "V3. Classification",
+    "title": "V3. Classification",
+    "content": "Skupinka klasifikace. ",
+    "url": "/clasification",
+    
+    "relUrl": "/clasification"
+  },"2": {
+    "doc": "V5. Semiautomatic datasets creation",
+    "title": "V5. Semiautomatic datasets creation",
+    "content": "Skupinka anotace. ",
+    "url": "/datasets_creation",
+    
+    "relUrl": "/datasets_creation"
+  },"3": {
+    "doc": "V4. Datasets for ML",
+    "title": "V4. Datasets for ML",
+    "content": "Skupinka klasifikace/anotace. ",
+    "url": "/datasets",
+    
+    "relUrl": "/datasets"
+  },"4": {
+    "doc": "V1. Hardware",
+    "title": "V1. Hardware",
+    "content": "Skupinka hardware. ",
+    "url": "/hardware",
+    
+    "relUrl": "/hardware"
+  },"5": {
+    "doc": "Home",
+    "title": "Introduction page",
+    "content": "What is this about ? 🚀✨ . Note example. ",
+    "url": "/#introduction-page",
+    
+    "relUrl": "/#introduction-page"
+  },"6": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"7": {
+    "doc": "V2. QRadar",
+    "title": "V2. QRadar",
+    "content": "Skupinka QRadar. ",
+    "url": "/qradar",
+    
+    "relUrl": "/qradar"
+  },"8": {
+    "doc": "The Team",
+    "title": "Team",
+    "content": " ",
+    "url": "/team#team",
+    
+    "relUrl": "/team#team"
+  },"9": {
+    "doc": "The Team",
+    "title": "The Team",
+    "content": " ",
+    "url": "/team",
+    
+    "relUrl": "/team"
+  }
+}
